@@ -1,4 +1,5 @@
 {
+    "author": "Alexandre BODIN <bodin.alex@gmail.com>",
     "plugins": [
         "edit-link",
         "github",
