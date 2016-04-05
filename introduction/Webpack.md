@@ -19,7 +19,7 @@ Let's say your are using a library like [Boostrap](http://getbootstrap.com/) and
 </html>
 ```
 
-When your app starts to grow you can easily image the hassle of handling all those dependencies and there respective loading in your app.
+When your app starts to grow you can image the hassle of handling all those dependencies.
 
 Now, imagine being able to `require` the Javascript libraries you need directly into your `.js` files like that:
 
