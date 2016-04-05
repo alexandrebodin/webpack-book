@@ -19,7 +19,7 @@ Let's say your are using a library like [Boostrap](http://getbootstrap.com/) and
 </html>
 ```
 
-When your app starts to grow you can image the hassle of handling all those dependencies.
+When your app starts to grow you can see what a hassle it would be to handle all your dependencies.
 
 Now, imagine being able to `require` the Javascript libraries you need directly into your `.js` files like that:
 
@@ -29,7 +29,7 @@ var boostrap = require('boostrap');
 // ... your code depending on the lib you just loaded
 ```
 
-And then juste have to do:
+And then just have to do that:
 
 ```html
 <!DOCTYPE html>
@@ -42,7 +42,7 @@ And then juste have to do:
 </html>
 ```
 
-Well that's what webpack is all about. It worries about loading and creating a final `js` file to import into your `index.html` 
+Well that's what Webpack is all about. It worries about loading and creating a final `js` file to import into your `index.html` 
 
 
 ## Differences with other tools
