@@ -29,7 +29,7 @@ var boostrap = require('boostrap');
 // ... your code depending on the lib you just loaded
 ```
 
-and then juste have to do :
+and then juste have to do:
 
 ```html
 <!DOCTYPE html>
