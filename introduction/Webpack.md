@@ -29,7 +29,7 @@ var boostrap = require('boostrap');
 // ... your code depending on the lib you just loaded
 ```
 
-and then juste have to do:
+And then juste have to do:
 
 ```html
 <!DOCTYPE html>
@@ -44,6 +44,8 @@ and then juste have to do:
 
 Well that's what webpack is all about. It worries about loading and creating a final `js` file to import into your `index.html` 
 
+
+## Differences with other tools
 
 Webpack as tools like [gulp](http://gulpjs.com/) [grunt](http://gruntjs.com/) or [browserify](http://browserify.org/)
 
