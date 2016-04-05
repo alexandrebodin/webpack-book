@@ -7,7 +7,7 @@
     ],
     "pluginsConfig": {
         "edit-link": {
-            "base": "https://github.com/alexandrebodin/webpack-book.git",
+            "base": "https://github.com/alexandrebodin/webpack-book/tree/master",
             "label": "Edit This Page"
         },
         "github": {
