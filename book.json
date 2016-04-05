@@ -3,7 +3,8 @@
     "plugins": [
         "edit-link",
         "github",
-        "prism"
+        "prism",
+        "anker-enable"
     ],
     "pluginsConfig": {
         "edit-link": {
