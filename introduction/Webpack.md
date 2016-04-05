@@ -1,8 +1,10 @@
 # Webpack
 
-## What does it do for real ? 
+Webpack is a module bundler for the Javascript ecosystem. It's main goal is to [Bundle](/GLOSSARY.md#Bundle) all your application code and dependencies targeting the browser.
 
-Let's say your are using a library like [Boostrap](http://getbootstrap.com/) and you need to use it in your application. The naive approach is :
+## What does it do for real ?
+
+Let's say your are using a library like [Boostrap](http://getbootstrap.com/) and you need to use it in your application. The naive approach is:
 
 ```html
 <!DOCTYPE html>
@@ -19,7 +21,7 @@ Let's say your are using a library like [Boostrap](http://getbootstrap.com/) and
 
 When your app starts to grow you can easily image the hassle of handling all those dependencies and there respective loading in your app.
 
-Now, imagine being able to `require` the Javascript libraries you need directly into your `.js` files like that :
+Now, imagine being able to `require` the Javascript libraries you need directly into your `.js` files like that:
 
 ```javascript
 var boostrap = require('boostrap');
