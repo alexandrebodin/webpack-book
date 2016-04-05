@@ -47,7 +47,6 @@ Well that's what Webpack is all about. It worries about loading and creating a f
 
 ## Differences with other tools
 
-Webpack as tools like [gulp](http://gulpjs.com/) [grunt](http://gruntjs.com/) or [browserify](http://browserify.org/)
-
+Webpack is often compared with tools such as [gulp](http://gulpjs.com/), [grunt](http://gruntjs.com/) or [browserify](http://browserify.org/). 
 
 
