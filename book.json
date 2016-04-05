@@ -3,5 +3,9 @@
         "edit-link",
         "github"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/alexandrebodin/webpack-book.git"
+        }
+    }
 }
