@@ -5,6 +5,10 @@
         "prism"
     ],
     "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/alexandrebodin/webpack-book.git",
+            "label": "Edit This Page"
+        },
         "github": {
             "url": "https://github.com/alexandrebodin/webpack-book.git"
         }
