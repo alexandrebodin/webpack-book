@@ -1,6 +1,6 @@
 # [Webpack](https://github.com/webpack/webpack)
 
-Webpack is a module bundler for the Javascript ecosystem. It's main goal is to bundle all your application code and dependencies targeting the browser.
+Webpack is a module bundler for the Javascript ecosystem. It's main goal is to [bundle](/GLOSSARY.md#bundle) all your application code and dependencies targeting the browser.
 
 Can you imagine being able to `require` the Javascript libraries you need directly into your `.js` files ? 
 
