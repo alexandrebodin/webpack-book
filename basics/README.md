@@ -1,1 +1,3 @@
 # Basics
+
+* [Installation](Installation.md)
