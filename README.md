@@ -15,7 +15,7 @@ The learning curve looks steep, but I believe with a more hands on approach, we 
 * I am not involved in Webpack's development. 
 * All thoughts in this book are mine, so don't hesitate to give feedback.
 * I feel this tool deserves more love than it receives. 
-* I believe that if you want better documentation you should contribute to improve it.
+* I believe that if you want better documentation you should contribute somehow.
 
 
 ## Prerequesites
