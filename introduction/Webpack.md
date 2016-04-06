@@ -36,7 +36,7 @@ And then just have to do that:
   <head>
   </head>
   <body>
-    <!-- It's here were the webpack magic happens -->
+    <!-- That's where the webpack magic happens -->
     <script src="js/bundle.js"></script>
   </body>
 </html>
