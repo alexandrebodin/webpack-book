@@ -29,6 +29,8 @@ I am going to try to start from the beginning and not to leave anyone behind. If
 
 ## Links
 
+* [NodeJs](https://nodejs.org/en/)
+* [npm](https://www.npmjs.com/)
 * [Webpack's official documentation](https://webpack.github.io/docs/)
 * [The get started tutorial nobody sees](http://webpack.github.io/docs/tutorials/getting-started/)
 * [A nice article by Maxime Fabre](https://blog.madewithlove.be/post/webpack-your-bags/)
