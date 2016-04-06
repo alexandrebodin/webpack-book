@@ -16,7 +16,7 @@ Start by installing Webpack globally
 npm install -g webpack
 ```
 
-When developing, it is good practice to add [Webpack](../GLOSSARY.md#Webpack) as a dependency to your project.
+When developing, it is good practice to add Webpack as a dependency to your project.
 
 ```
 npm install --save-dev webpack
