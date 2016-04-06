@@ -1,3 +1,3 @@
 # Basics
 
-* [Installation](Installation.md)
+* [Installation](/Installation.md)
