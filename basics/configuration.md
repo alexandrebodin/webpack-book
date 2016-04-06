@@ -17,13 +17,19 @@ In your `index.html` we load the file that Webpack will create for you.
 <script src="bundle.js"></script>
 ```
 
+In your `index.js` let's say "Hi".
+
+```javascript
+console.log('Hello World!');
+```
+
 In your `webpack.config.js` we will initialize the application configuration.
 
 ```javascript
 module.exports = {
   // configuration goes here
   entry: {
-    
+     
   }
 };
 ```
