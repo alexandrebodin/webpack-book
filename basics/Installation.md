@@ -1,4 +1,17 @@
-# Installation
+# Installation and Initialization
+
+## Initialization
+
+Let's start by creating some files as follows
+
+```
+project/
+-- index.html
+-- index.js
+-- webpack.config.js
+```
+
+## Installation
 
 If your are starting a new project, begin by initializing `npm` in your project folder
 
@@ -32,3 +45,5 @@ Go ahead and install it.
 ```
 npm install --save-dev webpack-dev-server
 ```
+
+
