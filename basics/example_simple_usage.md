@@ -1,2 +1,0 @@
-# Example: Simple usage
-
