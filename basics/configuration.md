@@ -1,3 +1,11 @@
 # Configuration
 
-So 
+First let's create some files.
+
+```
+project_dir/
+-- index.html
+-- index.js
+-- webpack.config.js
+```
+
