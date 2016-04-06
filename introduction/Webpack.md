@@ -42,11 +42,5 @@ And then just have to do that:
 </html>
 ```
 
-Well that's what Webpack is all about. It worries about loading and creating a final `js` file to import into your `index.html` 
-
-
-## Differences with other tools
-
-Webpack is often compared with tools such as [gulp](http://gulpjs.com/), [grunt](http://gruntjs.com/) or [browserify](http://browserify.org/). 
-
+Well that's what Webpack is all about. It worries about loading and creating a final `js` file to import into your `index.html`
 
