@@ -15,6 +15,7 @@ In your `index.html` file let's link the file that Webpack will create for you
 
 ```html
 <!DOCTYPE html>
+<html>
   <head></head>
   <body>
     <script src="bundle.js"></script>
