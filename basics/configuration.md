@@ -11,5 +11,11 @@ project_dir/
 
 * `webpack.config.js` Is the default name for Webpack configuration file. You can setup a full project work-flow just with this file.
 
+### `webpack.config.js`
 
+```javascript
+module.exports = {
+  
+};
+```
 
