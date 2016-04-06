@@ -11,27 +11,19 @@ project_dir/
 
 * `webpack.config.js` Is the default name for Webpack configuration file. You can setup a full project work-flow just with this file.
 
-In your `index.html` file let's link the file that Webpack will create for you
+In your `index.html` we load the file that Webpack will create for you.
 
 ```html
-<!DOCTYPE html>
-<html>
-  <head></head>
-  <body>
-    <script src="bundle.js"></script>
-  </body>
-</html>
+<script src="bundle.js"></script>
 ```
 
-## Source Code
-
-### `webpack.config.js`
+In your `webpack.config.js` we will initialize the application configuration.
 
 ```javascript
 module.exports = {
   // configuration goes here
   entry: {
-  
+    
   }
 };
 ```
