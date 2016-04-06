@@ -8,6 +8,7 @@ Let's say your are using a library like [Boostrap](http://getbootstrap.com/) and
 
 ```html
 <!DOCTYPE html>
+<html>
   <head>
   <link href="css/bootstrap.min.css" rel="stylesheet">
   </head>
