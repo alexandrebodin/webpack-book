@@ -35,4 +35,13 @@ I am going to try to start from the beginning and not to leave anyone behind. If
 
 ## Documentation
 
-* [Intro
+* [Introduction](introduction/README.md)
+
+
+## Feedback and Contribution
+
+I will be happy to get some feedback and suggestions, If you want to, just open an issue on this book [github repository](https://github.com/alexandrebodin/webpack-book)
+
+## Thanks 
+
+* To Webpack for being an awesome tool and letting me create apps without thinking too much on my development pipeline. 
