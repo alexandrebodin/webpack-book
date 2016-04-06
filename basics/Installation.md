@@ -1,6 +1,6 @@
-# Installation and Initialization
+# Initialization and Installation
 
-## Initialization
+## Initialization (skip if you al
 
 Let's start by creating some files as follows
 
