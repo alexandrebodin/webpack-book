@@ -1,8 +1,9 @@
 # Initialization and Installation
 
-## Initialization (skip if you al
 
-Let's start by creating some files as follows
+## Initialization
+
+If your are starting a new project start by creating some files as follows
 
 ```
 project/
@@ -11,13 +12,14 @@ project/
 -- webpack.config.js
 ```
 
-## Installation
-
-If your are starting a new project, begin by initializing `npm` in your project folder
+Then initialize `npm` in your project folder
 
 ```
 npm init
 ```
+
+
+## Installation
 
 ## Webpack
 
