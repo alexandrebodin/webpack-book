@@ -4,6 +4,6 @@
 * [Introduction](introduction/README.md)
    * [What is Webpack](introduction/Webpack.md)
 * [Basics](basics/README.md)
-   * [Initialization and Installation](basics/Installation.md)
+   * [Installation](basics/Installation.md)
 * [Glossary](GLOSSARY.md)
 
