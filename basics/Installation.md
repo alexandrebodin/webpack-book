@@ -1,26 +1,7 @@
-# Initialization and Installation
+# Installation
 
 ![So it begins](http://i3.kym-cdn.com/photos/images/original/000/288/697/3fa.jpg)
 
-## Initialization
-
-If your are starting a new project start by creating some files as follows
-
-```
-project/
--- index.html
--- index.js
--- webpack.config.js
-```
-
-Then initialize `npm` in your project folder
-
-```
-npm init
-```
-
-
-## Installation
 
 ## Webpack
 
