@@ -9,3 +9,5 @@ project_dir/
 -- webpack.config.js
 ```
 
+`webpack.config.js` Is the default name for Webpack configuration file.
+
