@@ -1,5 +1,8 @@
 {
     "author": "Alexandre BODIN <bodin.alex@gmail.com>",
+    "description": "An unofficial Webpack doc/intro",
+    "title": "Building your application with Webpack",
+    "language": "en",
     "plugins": [
         "edit-link",
         "github",
