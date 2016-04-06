@@ -3,7 +3,6 @@
 ## Webpack
 
 
-
 Start by installing Webpack globally
 
 ```
