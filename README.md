@@ -22,6 +22,7 @@ The learning curve looks steep, but I believe with a more hands on approach, we 
 
 I am going to try to start from the beginning and not to leave anyone behind. If you feel some part of this book is difficult to understand just let me know!
 
+* You need to have [NodeJS](https://nodejs.org/en/) installed.
 * I will assume you know basic Javascript. 
 * I will use `ES2015` syntax for my examples so go and take a look at [Babel learn ES2015](https://babeljs.io/docs/learn-es2015/).
 
