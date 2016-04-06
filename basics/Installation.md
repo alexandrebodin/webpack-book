@@ -1,5 +1,6 @@
 # Initialization and Installation
 
+![So it begins](http://i3.kym-cdn.com/photos/images/original/000/288/697/3fa.jpg)
 
 ## Initialization
 
