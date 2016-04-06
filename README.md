@@ -18,7 +18,7 @@ The learning curve looks steep, but I believe with a more hands on approach, we 
 * I believe that if you want better documentation you should contribute somehow.
 
 
-## Prerequesites
+## Prerequisites
 
 I am going to try to start from the beginning and not to leave anyone behind. If you feel some part of this book is difficult to understand just let me know!
 
