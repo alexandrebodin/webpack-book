@@ -21,6 +21,7 @@ In your `index.html` file let's link the file that Webpack will create for you
     <script src="bundle.js"></script>
   </body>
 </html>
+```
 
 ## Source Code
 
