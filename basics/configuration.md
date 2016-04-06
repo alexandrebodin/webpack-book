@@ -27,9 +27,10 @@ In your `webpack.config.js` we will initialize the application configuration.
 
 ```javascript
 module.exports = {
-  // configuration goes here
-  entry: {
-     
+  entry: './index.js', // entry file of your app
+  output: {
+    path: './build',
+    filename: 'bundle.js'
   }
 };
 ```
