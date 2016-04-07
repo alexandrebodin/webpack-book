@@ -75,7 +75,7 @@ project_dir/
 
 In some browsers you cannot load local Javascript files, that's where `webpack-dev-server` comes in.
 
-Among other awesome features `webpack-dev-server` can process your files and create a HTTP server to server them.
+Among other awesome features `webpack-dev-server` can process your files and create a HTTP server to serve them.
 
 Let's install it in your project
 
@@ -83,20 +83,33 @@ Let's install it in your project
 npm install --save-dev webpack-dev-server
 ```
 
-Now you can run
+Now run
 
 ```
 ./node_modules/.bin/webpack-dev-server
 ```
 
-And go to the url `http://localhost:8080`, You should see `Hello World!` in your `console`.
+Go to the url `http://localhost:8080`. You should see `Hello World!` in your `console`.
+
+You will notice in your `terminal` that Webpack is still running.
+If you change your `index.js`file it will reprocess it on the fly. You can just reload your browser then.
+
+Webpack offers features for automatic page reload and much more thanks to [plugins](../GLOSSARY.md#plugins) and [loaders](../GLOSSARY.md#loaders).
+
+## Adding some code 
+
+It's all well but for now you have an empty Javascript file. Let's add some code.
+
+Create a folder `app` and a `my_module.js` file in it.
+
+
+
+
+## Npm sugar 
 
 Here you need to specify `./node_modules/.bin/webpack-dev-server` because the module isn't installed globally. 
 
-
-Let's setup a `npm` script to simplify this
-
-Add this to the `"scripts"` in your `package.json`
+Let's setup a `npm` script to simplify this. Add this to the `"scripts"` in your `package.json`
 
 ```
 "dev": "webpack-dev-server"
@@ -108,4 +121,4 @@ Now you can just run
 npm run dev
 ```
 
-Npm automatically looks for the modules you call in the project `./node_modules` folder so you don't need to specify where the modules is.
+Npm will first look in the `./node_modules` folder of your project when you use modules in your `package.json` scripts.
