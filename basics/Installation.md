@@ -20,7 +20,8 @@ npm install --save-dev webpack
 Webpack comes with a package for use while developing. 
 
 It allows you to build and serve your files on the fly with auto rebuild when you update your files and some other lovely things!
-Go ahead and install it.
+
+Go ahead and install it in your project.
 
 ```
 npm install --save-dev webpack-dev-server
