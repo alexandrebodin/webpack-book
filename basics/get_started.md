@@ -2,9 +2,24 @@
 
 ## Installation
 
+First install Webpack globally
 
+```
+npm install -g webpack
+```
 
-First let's create some files.
+Next create a folder and initialize your npm project
+
+```
+mkdir project_dir && cd project_dir
+npm init
+```
+
+Answer to the questions (if you are not planning on publishing your code you can press enter until it's finished)
+
+## Setup
+
+Now let's create some files.
 
 ```
 project_dir/
@@ -31,10 +46,14 @@ In your `webpack.config.js` we will initialize the application configuration.
 
 ```javascript
 module.exports = {
-  entry: './index.js', // entry file of your app
+  entry: './index.js',
   output: {
     path: './build',
     filename: 'bundle.js'
   }
 };
 ```
+
+`Entry`
+
+
