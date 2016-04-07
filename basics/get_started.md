@@ -1,5 +1,7 @@
 # Get started
 
+You can find the source code for this example on [github](https://github.com/alexandrebodin/webpack-book-get-started)
+
 ## Installation
 
 First install Webpack globally
