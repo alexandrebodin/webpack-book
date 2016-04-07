@@ -2,6 +2,8 @@
 
 **This is a work in progress don't hesitate to contribute on the [Github repository](https://github.com/alexandrebodin/webpack-book)**
 
+This book is an **unofficial documentation** for Webpack with a **learn by example** approach. 
+
 Webpack is a great tool I have been using for some time and I love it!
 
 Even though some of the best starter-kits use it, lots of people won't because they find the documentation obscure.
