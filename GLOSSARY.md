@@ -6,7 +6,7 @@ Basically taking multiple files (your code, JS libraries, and even static resour
 
 ## Entry
 
-In Webpack the entry configuration allows your to setup the files that will be processed by Webpack.
+In Webpack the entry configuration allows you to setup the files that will be processed by Webpack.
 
 ## Plugins
 
