@@ -5,4 +5,4 @@
 In this section I will try to walk you through the initialization and configuration of a basic Webpack work-flow.
 
 * [Installation](/Installation.md)
-* [Configuration](/configuration.md)
+* [Get started](/get_started.md)
