@@ -1,6 +1,6 @@
 # Get started
 
-You can find the source code for this example on [github](https://github.com/alexandrebodin/webpack-book-get-started)
+You can find the source code for this example on [Github](https://github.com/alexandrebodin/webpack-book-get-started)
 
 ## Installation
 
