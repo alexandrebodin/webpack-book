@@ -6,6 +6,5 @@
 * [Installation](basics/Installation.md)
 * [Basics](basics/README.md)
    * [Get started](basics/get_started.md)
-   * [Installation](basics/Installation.md)
 * [Glossary](GLOSSARY.md)
 
