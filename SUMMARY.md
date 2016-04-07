@@ -3,7 +3,7 @@
 * [Read Me](README.md)
 * [Introduction](introduction/README.md)
    * [What is Webpack](introduction/Webpack.md)
-   * [Installation](basics/Installation.md)
+   * [Installation](introduction/Installation.md)
 * [Basics](basics/README.md)
    * [Get started](basics/get_started.md)
 * [Glossary](GLOSSARY.md)
