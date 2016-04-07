@@ -63,12 +63,11 @@ webpack
 
 Here Webpack automatically looks for a `webpack.config.js` file. You can specify another file using `'--config=PATH_TO_CONFIG`
 
-Now your project should look like this
+Now your project should look like this (ignoring npm stuff)
 
 ```
 project_dir/
--- build/
-  |-- bundle.js
+-- bundle.js
 -- index.js
 -- index.html
 -- webpack.config.js
