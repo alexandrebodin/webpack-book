@@ -1,6 +1,6 @@
 # [Webpack](https://github.com/webpack/webpack)
 
-This is a work in progress don't hesitate to contribute on the [Github repository](https://github.com/alexandrebodin/webpack-book)
+**This is a work in progress don't hesitate to contribute on the [Github repository](https://github.com/alexandrebodin/webpack-book)**
 
 Webpack is a great tool I have been using for some time and I love it!
 
