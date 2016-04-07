@@ -89,7 +89,7 @@ Now you can run
 ./node_modules/.bin/webpack-dev-server
 ```
 
-And go to the url `http://localhost:8080`, You should see "Hello World!" in your `console`.
+And go to the url `http://localhost:8080`, You should see `Hello World!` in your `console`.
 
 Here you need to specify `./node_modules/.bin/webpack-dev-server` because the module isn't installed globally. 
 
