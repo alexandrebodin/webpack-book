@@ -11,3 +11,7 @@ In Webpack the entry configuration allows your to setup the files that will be p
 ## plugins
 
 @TODO
+
+## loaders
+
+@TODO
