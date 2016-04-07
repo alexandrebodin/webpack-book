@@ -136,7 +136,12 @@ Previously you add to use `./node_modules/.bin/webpack-dev-server` instead of `w
 Let's setup a `npm` script to simplify this. Add this to the `"scripts"` in your `package.json`
 
 ```
-"dev": "webpack-dev-server"
+{
+  // ...
+  "scripts": {
+    "dev": "webpack-dev-server"
+  }
+}
 ```
 
 Now you can just run 
