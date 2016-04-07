@@ -53,7 +53,7 @@ module.exports = {
 };
 ```
 
-The configuration tels Webpack the the file it needs to process is `index.js` and it has to output a file `bundle.js`in the `build` directory.
+The configuration tels Webpack the file it needs to process is `index.js` and it has to output a file `bundle.js`in the `build` directory.
 
 Let's try and run Webpack then !
 
@@ -73,5 +73,39 @@ project_dir/
 -- webpack.config.js
 ```
 
+In some browsers you cannot load local Javascript files, that's where `webpack-dev-server` comes in.
+
+Among other awesome features `webpack-dev-server` can process your files and create a HTTP server to server them.
+
+Let's install it in your project
+
+```
+npm install --save-dev webpack-dev-server
+```
+
+Now you can run
+
+```
+./node_modules/.bin/webpack-dev-server
+```
+
+And go to the url `http://localhost:8080`, You should see "Hello World!" in your `console`.
+
+Here you need to specify `./node_modules/.bin/webpack-dev-server` because the module isn't installed globally. 
 
 
+Let's setup a `npm` script to simplify this
+
+Add this to the `"scripts"` in your `package.json`
+
+```
+"dev": "webpack-dev-server"
+```
+
+Now you can just run 
+
+```
+npm run dev
+```
+
+Npm automatically looks for the modules you call in the project `./node_modules` folder so you don't need to specify where the modules is.
