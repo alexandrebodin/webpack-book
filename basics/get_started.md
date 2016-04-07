@@ -96,7 +96,7 @@ If you change your `index.js`file it will reprocess it on the fly. You can just 
 
 Webpack offers features for automatic page reload and much more thanks to [plugins](../GLOSSARY.md#plugins) and [loaders](../GLOSSARY.md#loaders).
 
-## Adding some code 
+## Some code 
 
 It's all well but for now you have an empty Javascript file. Let's add some code.
 
@@ -119,7 +119,13 @@ var myModule = require('./app/my_module');
 myModule.sayHi('Webpack');
 ```
 
+If you left `webpack-dev-server` running refresh your browser or restart `webpack-dev-server`. 
 
+![magic](https://proxy.spigotmc.org/549de25581587a39657162f37f16dc374c122e4d?url=http%3A%2F%2Fs2.quickmeme.com%2Fimg%2F72%2F7221f725e518793a71eaec4da3d0d5b60fa961b374f3b33f8a83867da2dc331e.jpg)
+
+You can see 'Hi Webpack' in the `console`.
+
+To recap, Webpack can load modules just like [NodeJs](https://nodejs.org/docs/latest/api/modules.html) and compile them all into one file. You can now use open-source libraries and organize your code much better.
 
 ## Npm sugar 
 
