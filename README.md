@@ -4,7 +4,7 @@
 
 Webpack is a great tool I have been using for some time and I love it!
 
-Even though some of the best starter-kits use it, there are still lots of people not using it because they find the documentation obscure.
+Even though some of the best starter-kits use it, lots of people won't because they find the documentation obscure.
 
 ## Webpack and it's documentation
 
