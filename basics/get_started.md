@@ -131,7 +131,7 @@ To recap, Webpack can load modules just like [NodeJs](https://nodejs.org/docs/la
 
 ## Npm sugar 
 
-Previously you add to use `./node_modules/.bin/webpack-dev-server` to use `webpack-dev-server` because it isn't installed globally.
+Previously you add to use `./node_modules/.bin/webpack-dev-server` instead of `webpack-dev-server` because it isn't installed globally.
 
 Let's setup a `npm` script to simplify this. Add this to the `"scripts"` in your `package.json`
 
