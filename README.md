@@ -1,5 +1,7 @@
 # [Webpack](https://github.com/webpack/webpack)
 
+This is a work in progress don't hesitate to contribute on the [Github repository](https://github.com/alexandrebodin/webpack-book)
+
 Webpack is a great tool I have been using for some time and I love it!
 
 Even though some of the best starter-kits use it, there are still lots of people not using it because they find the documentation obscure.
