@@ -102,6 +102,22 @@ It's all well but for now you have an empty Javascript file. Let's add some code
 
 Create a folder `app` and a `my_module.js` file in it.
 
+### `my_module.js`
+```javascript
+module.exports = {
+  sayHi: function(firstname) {
+    console.log('Hi ' + firstname);
+  }
+};
+```
+
+### `index.js`
+
+```javascript
+var myModule = require('./app/my_module');
+
+myModule.sayHi('Webpack');
+```
 
 
 
