@@ -54,6 +54,26 @@ module.exports = {
 };
 ```
 
-`[Entry](../GLOSSARY.md#entry)`
+The configuration tels Webpack the the file it needs to process is `index.js` and it has to output a file `bundle.js`in the `build` directory.
+
+Let's try and run Webpack then !
+
+```
+webpack
+```
+
+Here Webpack automatically looks for a `webpack.config.js` file. You can specify another file using `'--config=PATH_TO_CONFIG`
+
+Now your project should look like this
+
+```
+project_dir/
+-- build/
+  |-- bundle.js
+-- index.js
+-- index.html
+-- webpack.config.js
+```
+
 
 
