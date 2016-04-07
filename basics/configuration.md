@@ -1,4 +1,4 @@
-# Configuration
+# Get started
 
 First let's create some files.
 
