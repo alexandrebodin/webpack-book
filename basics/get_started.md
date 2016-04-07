@@ -54,6 +54,6 @@ module.exports = {
 };
 ```
 
-`Entry`
+`[Entry](../GLOSSARY.md#entry)`
 
 
