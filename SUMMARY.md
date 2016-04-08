@@ -13,7 +13,7 @@
    * [Loaders](advanced/loaders.md)
    * [Plugins](advanced/plugins.md)
 * [Recipes](recipes/README.md)
-   * How to write a loader
+   * [How to write a loader](recipes/how_to_write_a_loader.md)
    * How to write a plugin
 * [Reference](reference/README.md)
    * [CLI](reference/cli.md)
