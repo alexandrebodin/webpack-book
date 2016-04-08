@@ -11,7 +11,6 @@
    * [Using Plugins](basics/using_plugins.md)
    * [Setting up a  ReactJS app](basics/setting_up_a_reactjs_app.md)
 * [Advanced](advanced/README.md)
-   * [Plugins](advanced/plugins.md)
    * [Setting up an uniserval ReactJS app](advanced/setting_up_an_uniserval_reactjs_app.md)
 * [Recipes](recipes/README.md)
    * [How to write a loader](recipes/how_to_write_a_loader.md)
