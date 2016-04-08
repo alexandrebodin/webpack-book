@@ -10,6 +10,6 @@
    * Using Loaders
    * Using Plugins
 * Advanced
-* [Glossary](GLOSSARY.md)
 * Reference
+* [Glossary](GLOSSARY.md)
 
