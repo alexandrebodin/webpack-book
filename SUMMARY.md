@@ -9,7 +9,7 @@
    * [Configuration](basics/configuration.md)
    * [Using Loaders](basics/using_loaders.md)
    * [Using Plugins](basics/using_plugins.md)
-   * Setting up a  ReactJS App
+   * [Setting up a  ReactJS App](basics/setting_up_a_reactjs_app.md)
 * [Advanced](advanced/README.md)
    * [Loaders](advanced/loaders.md)
    * [Plugins](advanced/plugins.md)
