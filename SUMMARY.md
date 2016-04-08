@@ -9,6 +9,6 @@
    * Configuration
    * Using Loaders
    * Using Plugins
-* [Glossary](GLOSSARY.md)
 * Advanced
+* [Glossary](GLOSSARY.md)
 
