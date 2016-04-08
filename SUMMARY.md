@@ -13,7 +13,7 @@
 * [Advanced](advanced/README.md)
    * [Loaders](advanced/loaders.md)
    * [Plugins](advanced/plugins.md)
-   * Setting up an uniserval ReactJS app
+   * [Setting up an uniserval ReactJS app](advanced/setting_up_an_uniserval_reactjs_app.md)
 * [Recipes](recipes/README.md)
    * [How to write a loader](recipes/how_to_write_a_loader.md)
    * [How to write a plugin](recipes/how_to_write_a_plugin.md)
