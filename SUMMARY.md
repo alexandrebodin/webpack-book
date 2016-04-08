@@ -11,7 +11,7 @@
    * [Using Plugins](basics/using_plugins.md)
 * [Advanced](advanced/README.md)
    * [Plugins](advanced/plugins.md)
-   * Loaders
+   * [Loaders](advanced/loaders.md)
 * [Recipes](recipes/README.md)
 * [Reference](reference/README.md)
    * [CLI](reference/cli.md)
