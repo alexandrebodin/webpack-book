@@ -13,6 +13,7 @@
    * [Plugins](advanced/plugins.md)
    * [Loaders](advanced/loaders.md)
 * [Recipes](recipes/README.md)
+   * How to write a plugin
 * [Reference](reference/README.md)
    * [CLI](reference/cli.md)
    * [NodeJs](reference/nodejs.md)
