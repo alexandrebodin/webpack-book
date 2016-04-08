@@ -10,4 +10,5 @@
    * Using Loaders
    * Using Plugins
 * [Glossary](GLOSSARY.md)
+* Advanced
 
