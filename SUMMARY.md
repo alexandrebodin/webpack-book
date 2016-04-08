@@ -10,6 +10,6 @@
    * [Using Loaders](basics/using_loaders.md)
    * [Using Plugins](basics/using_plugins.md)
 * [Advanced](advanced.md)
-* Reference
+* [Reference](reference/README.md)
 * [Glossary](GLOSSARY.md)
 
