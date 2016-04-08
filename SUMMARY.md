@@ -11,6 +11,6 @@
    * [Using Plugins](basics/using_plugins.md)
 * [Reference](reference/README.md)
    * [CLI](reference/cli.md)
-   * NodeJs
+   * [NodeJs](reference/nodejs.md)
 * [Glossary](GLOSSARY.md)
 
