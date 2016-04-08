@@ -8,5 +8,6 @@
    * [Get started](basics/get_started.md)
    * Configuration
    * Using Loaders
+   * Using Plugins
 * [Glossary](GLOSSARY.md)
 
