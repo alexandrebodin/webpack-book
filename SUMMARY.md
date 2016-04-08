@@ -10,8 +10,8 @@
    * [Using Loaders](basics/using_loaders.md)
    * [Using Plugins](basics/using_plugins.md)
 * [Advanced](advanced/README.md)
-   * [Plugins](advanced/plugins.md)
    * [Loaders](advanced/loaders.md)
+   * [Plugins](advanced/plugins.md)
 * [Recipes](recipes/README.md)
    * How to write a loader
    * How to write a plugin
