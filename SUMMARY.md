@@ -16,7 +16,6 @@
    * [How to write a loader](recipes/how_to_write_a_loader.md)
    * [How to write a plugin](recipes/how_to_write_a_plugin.md)
 * [Reference](reference/README.md)
-   * [CLI](reference/cli.md)
    * [NodeJs](reference/nodejs.md)
 * [Glossary](GLOSSARY.md)
 
