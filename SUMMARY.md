@@ -8,7 +8,7 @@
    * [Get started](basics/get_started.md)
    * [Configuration](basics/configuration.md)
    * [Using Loaders](basics/using_loaders.md)
-   * Using Plugins
+   * [Using Plugins](basics/using_plugins.md)
 * Advanced
 * Reference
 * [Glossary](GLOSSARY.md)
