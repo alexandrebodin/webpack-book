@@ -19,5 +19,5 @@
 * [FAQ](faq.md)
 * [Reference](reference/README.md)
 * [Glossary](GLOSSARY.md)
-* Plugins
+* [Plugins](Plugins/README.md)
 
