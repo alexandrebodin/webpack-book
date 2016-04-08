@@ -17,4 +17,5 @@
    * [How to write a plugin](recipes/how_to_write_a_plugin.md)
 * [Reference](reference/README.md)
 * [Glossary](GLOSSARY.md)
+* FAQ
 
