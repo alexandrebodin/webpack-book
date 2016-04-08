@@ -7,5 +7,6 @@
 * [Basics](basics/README.md)
    * [Get started](basics/get_started.md)
    * Configuration
+   * Using Loaders
 * [Glossary](GLOSSARY.md)
 
