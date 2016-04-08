@@ -6,7 +6,7 @@
    * [Installation](introduction/Installation.md)
 * [Basics](basics/README.md)
    * [Get started](basics/get_started.md)
-   * Configuration
+   * [Configuration](basics/configuration.md)
    * Using Loaders
    * Using Plugins
 * Advanced
