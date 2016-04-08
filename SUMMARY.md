@@ -14,4 +14,5 @@
    * [CLI](reference/cli.md)
    * [NodeJs](reference/nodejs.md)
 * [Glossary](GLOSSARY.md)
+* Recipes
 
