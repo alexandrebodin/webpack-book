@@ -10,7 +10,7 @@
    * [Using Loaders](basics/using_loaders.md)
    * [Using Plugins](basics/using_plugins.md)
 * [Advanced](advanced/README.md)
-   * Plugins
+   * [Plugins](advanced/plugins.md)
    * Loaders
 * [Recipes](recipes/README.md)
 * [Reference](reference/README.md)
