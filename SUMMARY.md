@@ -10,5 +10,6 @@
    * [Using Loaders](basics/using_loaders.md)
    * [Using Plugins](basics/using_plugins.md)
 * [Reference](reference/README.md)
+   * CLI
 * [Glossary](GLOSSARY.md)
 
