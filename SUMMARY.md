@@ -15,7 +15,7 @@
 * [Recipes](recipes/README.md)
    * [How to write a loader](recipes/how_to_write_a_loader.md)
    * [How to write a plugin](recipes/how_to_write_a_plugin.md)
-   * Runing Webpack with Nodejs
+   * [Runing Webpack with Nodejs](recipes/runing_webpack_with_nodejs.md)
 * [FAQ](faq.md)
 * [Reference](reference/README.md)
 * [Glossary](GLOSSARY.md)
