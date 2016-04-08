@@ -9,7 +9,6 @@
    * [Configuration](basics/configuration.md)
    * [Using Loaders](basics/using_loaders.md)
    * [Using Plugins](basics/using_plugins.md)
-* [Advanced](advanced.md)
 * [Reference](reference/README.md)
 * [Glossary](GLOSSARY.md)
 
